@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈  Work experience 🤹‍♀️ 🌈</h3>
+<h3 align="center">🌈✨✨🌈</h3>
 <br>
-- (00.00 - 00.00) 경력 1
 
 <!---
 helloju817/helloju817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
