@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-## Work experience 🤹‍♀️
+<h3 align="center">🌈  Work experience 🤹‍♀️ 🌈</h3>
 <br>
 - (00.00 - 00.00) 경력 1
 
