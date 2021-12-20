@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @helloju817, My blog address is https://blog.naver.com/young81717. 
 - 👀 I’m majoring in software engineering.
+- https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/helloju817/helloju
 
 <!---
 helloju817/helloju817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
