@@ -10,7 +10,9 @@
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
-[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/young81717)](https://blog.naver.com/young81717)
+## Work experience 🤹‍♀️
+<br>
+- (00.00 - 00.00) 경력 1
 
 <!---
 helloju817/helloju817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
