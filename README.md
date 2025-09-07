@@ -28,33 +28,23 @@
 ## ⚡ Tech Stack
 <div align="center">
 
-<!-- Python Emphasis -->
-<div>
-  <img src="https://skillicons.dev/icons?i=python" width="60" />
-  <br/>
-  <sub><b>Primary Language</b></sub>
-</div>
-
-<br/>
-
-<!-- Languages & Data -->
-<b>Languages & Data</b><br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,mysql,pandas,numpy&perline=6" />
+**Languages & Data**  
+<img src="https://img.shields.io/badge/Python%20(Main)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
 
 <br/><br/>
 
-<!-- Frameworks & Cloud -->
-<b>Frameworks & Cloud</b><br/>
-<img src="https://skillicons.dev/icons?i=flask,svelte,aws,oracle&perline=4" />
+**Frameworks & Cloud**  
+<img src="https://skillicons.dev/icons?i=flask,svelte,aws,oracle" />
 
 <br/><br/>
 
-<!-- Tools -->
-<b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,jupyter&perline=5" />
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,jupyter" />
 
 </div>
----
+
 
 ## 🏆 Awards & Publications
 <div align="center">
