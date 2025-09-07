@@ -25,25 +25,27 @@
 
 ---
 
-## ⚡ Tech Stack
-<div align="center">
+<h3 align="center">✨ Tech Stack ✨</h3> 
 
-**Languages & Data**  
-<img src="https://img.shields.io/badge/Python%20(Main)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,mysql" />
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<div align="center"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+</div> 
 
-<br/><br/>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</div>  
 
-**Frameworks & Cloud**  
-<img src="https://skillicons.dev/icons?i=flask,svelte,aws,oracle" />
+<div align="center"> 
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</div>  
 
-<br/><br/>
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,jupyter" />
-
-</div>
+<br>
 
 
 ## 🏆 Awards & Publications
