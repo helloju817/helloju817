@@ -29,7 +29,8 @@
 <div align="center">
 
 **Languages & Data**  
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,mysql" /><br/>
+<img src="https://img.shields.io/badge/Python%20(Main)-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,mysql" /><br/>
 <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 
 **Frameworks & Cloud**  
