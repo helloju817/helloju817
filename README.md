@@ -1,5 +1,17 @@
+<!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Juyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=230)
 
+<div align="center">
+
+🎓 Software Engineering Major  
+🏅 Certifications: AWS SAA, 정보처리기사, 빅데이터분석기사, SQLD, ADSP  
+
+<img src="https://komarev.com/ghpvc/?username=juyoung&style=flat-square" />
+<a href="https://github.com/juyoung"><img src="https://img.shields.io/github/followers/juyoung?style=social" /></a>
+
+</div>
+
+---
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -8,16 +20,15 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </div>  
 <div align="center">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
 </div>
 <br>
-
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
