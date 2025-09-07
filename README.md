@@ -48,6 +48,7 @@
 
 <br>
 
+</div>
 
 ## 🏆 Awards & Publications
 <div align="center">
